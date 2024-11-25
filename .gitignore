@@ -1,0 +1,28 @@
+# Ambiente Virtual
+venv/
+.env
+
+# Arquivos de Configuração do Editor
+.vscode/
+.idea/
+
+# Configurações de Containers
+.devcontainer/
+
+# Arquivos Compilados de Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Logs e Saídas
+*.log
+
+# Arquivos Temporários
+*.tmp
+*.swp
+*.swo
+*.bak
+*.orig
+
+# Dependências Instaladas
+site.db
